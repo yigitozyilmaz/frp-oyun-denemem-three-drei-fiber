@@ -1,0 +1,14 @@
+#deneme {
+  z-index: 1;
+  background-color: rgb(142, 55, 224);
+  height: 80px;
+  width: 200px;
+  position: fixed;
+  bottom: 85%;
+  text-align: center;
+  padding: 10px;
+}
+canvas {
+  height: 100%;
+  width: 100%;
+}
